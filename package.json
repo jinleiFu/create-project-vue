@@ -1,6 +1,6 @@
 {
   "name": "create-project-vue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "vue项目模板",
   "main": "index.js",
   "scripts": {
