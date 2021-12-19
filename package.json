@@ -18,7 +18,7 @@
   "author": "jinleiFu",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^4.1.1",
     "commander": "^8.3.0",
     "download": "^8.0.0",
     "fs-extra": "^10.0.0",
